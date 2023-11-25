@@ -1,0 +1,15 @@
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+D:\_Разработчик\Attestation\Attestation\Task66\bin\Debug\net6.0\Task66.exe
+D:\_Разработчик\Attestation\Attestation\Task66\bin\Debug\net6.0\Task66.deps.json
+D:\_Разработчик\Attestation\Attestation\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+D:\_Разработчик\Attestation\Attestation\Task66\bin\Debug\net6.0\Task66.dll
+D:\_Разработчик\Attestation\Attestation\Task66\bin\Debug\net6.0\Task66.pdb
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.dll
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\refint\Task66.dll
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.pdb
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+D:\_Разработчик\Attestation\Attestation\Task66\obj\Debug\net6.0\ref\Task66.dll
